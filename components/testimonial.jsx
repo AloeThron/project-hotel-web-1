@@ -35,7 +35,7 @@ export default function Testimonial() {
       initial="hidden"
       whileInView={"show"}
       viewport={{ one: false, amount: 0 }}
-      className="bg-soft_green xl:h-[880px]"
+      className="bg-soft_green xl:h-[880px] mt-24"
     >
       <motion.div
         variants={fadeIn("up", 0.4)}
