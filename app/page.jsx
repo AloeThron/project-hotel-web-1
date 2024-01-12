@@ -12,7 +12,7 @@ export default function Home() {
       <Hero />
       <Featured />
       <About />
-      {/* <Recommend /> */}
+      <Recommend />
       {/* <Footer /> */}
       <div className="h-[4000px]"></div>
     </div>
