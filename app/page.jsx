@@ -4,6 +4,7 @@ import Header from "@/components/header";
 import About from "@/components/about";
 import Featured from "@/components/featured";
 import Recommend from "@/components/recommend";
+import Find from "@/components/find";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Featured />
       <About />
       <Recommend />
+      <Find />
       {/* <Footer /> */}
       <div className="h-[4000px]"></div>
     </div>
