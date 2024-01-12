@@ -13,14 +13,14 @@ import Image from "next/image";
 
 const testimonialData = [
   {
-    img: "/testimonial/img-1.png",
+    img: "/testimonials/img-1.png",
     message:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et maxime commodi non quam architecto, iure labore quis cumque eveniet tempora saepe illum laborum ut eius cum delectus quasi reprehenderit dignissimos.",
     personName: "Robert Rene",
     location: "Singapore",
   },
   {
-    img: "/testimonial/img-2.png",
+    img: "/testimonials/img-2.png",
     message:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et maxime commodi non quam architecto, iure labore quis cumque eveniet tempora saepe illum laborum ut eius cum delectus quasi reprehenderit dignissimos. Et maxime commodi non quam architecto, iure labore quis cumque eveniet tempora saepe illum laborum ut eius cum delectus quasi reprehenderit dignissimos.",
     personName: "Robert Rene",

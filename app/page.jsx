@@ -17,8 +17,7 @@ export default function Home() {
       <Recommend />
       <Find />
       <Testimonial />
-      {/* <Footer /> */}
-      <div className="h-[4000px]"></div>
+      <Footer />
     </div>
   );
 }
